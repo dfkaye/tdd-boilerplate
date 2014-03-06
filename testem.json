@@ -1,0 +1,7 @@
+{
+  "launchers": {
+    "mocha" : {
+      "command": "node ./test/mocha/node-suite.js"
+    }
+  }
+}
