@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/dfkaye/tdd-boilerplate/issues"
   },
-  "peerDependencies": {
+  "devDependencies": {
     "mocha": ">= 1.7"
   }
 }
