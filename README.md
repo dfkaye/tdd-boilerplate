@@ -4,3 +4,7 @@ tdd-boilerplate
 ===============
 
 example TDD boilerplate for JavaScript projects using node.js, mocha, testem, and rawgithub
+
+# rawgithub
+
++ [mocha suite](https://rawgithub.com/YOUR_NAME/YOUR_PROJECT/master/test/mocha/browser-suite.html)
