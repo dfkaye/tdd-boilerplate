@@ -1,0 +1,25 @@
+{
+  "name": "tdd-boilerplate",
+  "version": "0.0.0",
+  "description": "TDD boilerplate for JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/mocha/node-suite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dfkaye/tdd-boilerplate.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript",
+    "boilerplate",
+    "testem",
+    "rawgithub"
+  ],
+  "author": "David Kaye <dfkaye@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfkaye/tdd-boilerplate/issues"
+  }
+}

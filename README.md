@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dfkaye/tdd-boilerplate.png?branch=master)](https://travis-ci.org/dfkaye/tdd-boilerplate)
+
 tdd-boilerplate
 ===============
 
