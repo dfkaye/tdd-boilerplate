@@ -22,5 +22,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dfkaye/tdd-boilerplate/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.17"
   }
 }

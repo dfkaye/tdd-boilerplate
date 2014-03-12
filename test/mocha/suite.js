@@ -12,7 +12,7 @@ if (typeof require == 'function') {
 
 describe('smoke test', function() {
   it('should pass', function () {
-    //assert.equal(boilerplate, 'boilerplate');
-    assert.equal(boilerplate(), 'boilerplate', 'boilerplate');
+    //assert.equal(boilerplate, 'boilerplate', 'failure message');
+    assert.equal(boilerplate(), 'boilerplate', 'failure message');
   });
 });
