@@ -14,7 +14,7 @@ View the mocha tests running in a browser suite on
 
 ## blog post
 
-[Getting started with tests ~ a TDD boilerplate for JavaScript](http://dfkaye.github.io/tdd-javascript)
+[Getting started with tests ~ a TDD boilerplate for JavaScript](http://dfkaye.github.io/2014/03/04/tdd-boilerplate/)
 
 ## thanks to the following reviewers
 
