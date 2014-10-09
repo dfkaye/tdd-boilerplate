@@ -1,16 +1,16 @@
 # tdd-boilerplate
 
 A boilerplate for test-driven JavaScript projects using GitHub, node.js, mocha, 
-testem, rawgithub and travis.
+testem, rawgit and travis.
 
 ## travis says...
 
 [![Build Status](https://travis-ci.org/dfkaye/tdd-boilerplate.png?branch=master)](https://travis-ci.org/dfkaye/tdd-boilerplate)
 
-## rawgithub
+## rawgit
 
 View the mocha tests running in a browser suite on 
-[rawgithub](https://rawgithub.com/dfkaye/tdd-boilerplate/master/test/mocha/browser-suite.html)
+[rawgit](https://rawgit.com/dfkaye/tdd-boilerplate/master/test/mocha/browser-suite.html)
 
 ## blog post
 
